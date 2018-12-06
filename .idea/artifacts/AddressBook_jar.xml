@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AddressBook:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AddressBook_jar</output-path>
+    <root id="archive" name="AddressBook.jar">
+      <element id="module-output" name="AddressBook" />
+    </root>
+  </artifact>
+</component>
